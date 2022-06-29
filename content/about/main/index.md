@@ -6,10 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  <div>
-    <img style="float: left; margin-right: 15px; margin-top:-10%" src="/img/research.png" alt="research icon" width="45"/>
-    <span style="float: left; font-family: 'Garamond'; font-size: 2em; font-weight: 200; margin-left: 60px; margin-top:-11%">Research Interests</span>
-  </div>
+  <img src="main/research.png"
+     alt="Research Icon"
+     style="float: left; margin-right: 15px; margin-top: 5px" 
+     width="45"
+     display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Research Interests</span>
   
   My current research focuses on the development of novel causal inference 
   methods—primarily for instrumental variable analysis—and their applications to 
@@ -23,7 +24,7 @@ intro: |
   at the Hospital for Sick Children) includes work in cancer epidemiology, 
   genetics, and global child health and nutrition.</span><br><br>
   
-  <img src="/img/Teaching.png"
+  <img src="main/Teaching.png"
      alt="Teaching Icon"
      style="float: left; margin-right: 15px; margin-top: 5px" 
      width="45"
@@ -33,7 +34,7 @@ intro: |
   Health and at Harvard Medical School. You can find some of my teaching-
   and course-related materials [here](/teaching/).<br><br>
   
-  <img src="/img/education.png"
+  <img src="main/education.png"
      alt="Education Icon"
      style="float: left; margin-right: 15px; margin-top: 12px" 
      width="45"
@@ -68,7 +69,7 @@ intro: |
     </tr>    
   </table>
   
-  <img src="/img/contact.png"
+  <img src="main/contact.png"
      alt="Email Icon"
      style="float: left; margin-right: 15px; margin-top: 15px" 
      width="35"

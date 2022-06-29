@@ -23,7 +23,7 @@ links:
   url: https://doi.org/10.1186/s12874-021-01449-w
 subtitle: ""
 tags:
-title: Structural nestsed cumulative failure time models
+title: Structural nested cumulative failure time models
 ---
 <span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Description</span>
 

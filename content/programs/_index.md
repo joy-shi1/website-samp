@@ -7,12 +7,15 @@ cascade:
   show_comments: false
   show_post_date: false
   sidebar:
-    show_sidebar_adunit: true
+    show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /project/
 description: |
   You can find my statistical code for various projects and publications 
-  posted here.
+  posted here. 
+  
+  A full list of my programs are available on 
+  my [Github page](https://github.com/joy-shi1).
 layout: list-grid
 show_author_byline: false
 show_button_links: false
