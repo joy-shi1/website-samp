@@ -1,4 +1,4 @@
-baseURL = "joyshi.netlify.app"
+baseURL = ""
 theme = "hugo-apero"
 languageCode = "en"
 title = "Joy Shi"
