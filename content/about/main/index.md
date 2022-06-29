@@ -29,12 +29,9 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Teaching</span>
   
-  I am a co-director for the [Master of Medical Sciences in Clinical Investigation (MMSCI)](https://postgraduateeducation.hms.harvard.edu/masters-programs/master-medical-sciences-clinical-investigation) program at Harvard Medical School—specifically, for the Comparative 
-  Effectiveness Research track which includes courses on advanced topics in 
-  causal inference methods. 
-  
-  I also teach methods for causal inference at 
-  Harvard T.H. Chan School of Public Health.<br><br>
+  I teach methods for causal inference at Harvard T.H. Chan School of Public 
+  Health and at Harvard Medical School. You can find some of my teaching-
+  and course-related materials [here](/teaching/).<br><br>
   
   <img src="/img/education.png"
      alt="Education Icon"
@@ -42,7 +39,7 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Education</span>
 
-    <style>
+  <style>
   th, td {
     padding-top: 10px;
     padding-bottom: 10px;
