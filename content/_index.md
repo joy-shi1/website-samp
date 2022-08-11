@@ -3,7 +3,8 @@ action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
 description: I am an epidemiologist interested in causal inference, methods
-  and pedagogy. My research focuses on improving causal
+  and pedagogy. As a postdoctoral research fellow at Harvard T.H. Chan School
+  of Public Health, my research focuses on improving causal
   inference methods for answering clinically relevant questions
   about the treatment and prevention of chronic diseases.
 image_left: true

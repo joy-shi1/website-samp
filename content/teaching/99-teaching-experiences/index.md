@@ -10,12 +10,29 @@ links:
 subtitle: 
 title: "Teaching Experiences"
 ---
+
+<!-- Assistant Director -->
+<span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Assistant Director</span>
+<table style="border:none; margin:0px">
+  <!-- CI 732 -->
+  <tr style="background:none;">
+    <td style="padding-left: 0px; width:70px">2022 - Present</td>
+    <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22Facets%22%3A%5B%5D%2C%22PageNumber%22%3A1%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22TopN%22%3A%22%22%2C%22PageSize%22%3A%22%22%2C%22SearchText%22%3A%22CI732%22%7D"><b>CI 732</b>: Clinical Data Science - Comparative Effectiveness Research II</a><br>
+        Harvard Medical School, Boston, MA<br><br>
+        <i>Advanced topics in epidemiologic designs, confounding
+        adjustment for time-varying treatment strategies and target trial emulation.</i>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+
 <!-- Instructor -->
 <span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Instructor</span>
 <table style="border:none; margin:0px">
   <!-- CI 722 -->
   <tr style="background:none">
-    <td style="padding-left: 0px; width:70px">2021 - Present</td>
+    <td style="padding-left: 0px; width:70px">2021 - 2022</td>
     <td style="padding-left: 0px">
     <a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22CI%20722%20Spring%22%2C%22DeepLink%22%3Afalse%7D"><b>CI
     722</b>: Clinical Data Science - Comparative Effectiveness Research I</a><br>

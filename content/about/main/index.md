@@ -30,9 +30,12 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Teaching</span>
   
-  I teach methods for causal inference at Harvard T.H. Chan School of Public 
-  Health and at Harvard Medical School. You can find some of my teaching-
-  and course-related materials [here](/teaching/).<br><br>
+  I am an Assistant Director for the comparative effectiveness pathway in the
+  [Master of Medical Sciences in Clinical Investigation (MMSCI)](https://postgraduateeducation.hms.harvard.edu/masters-programs/master-medical-sciences-clinical-investigation) 
+  program at Harvard Medical School. I also teach methods for causal inference at
+  Harvard T.H. Chan School of Public Health. 
+  
+  You can find some of my teaching- and course-related materials [here](/teaching/).<br><br>
   
   <img src="main/education.png"
      alt="Education Icon"
