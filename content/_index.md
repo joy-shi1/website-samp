@@ -13,7 +13,7 @@ images:
 - img/JS_Headshot_Photo_Cropped_Circle.png
 show_action_link: true
 show_social_links: true
-subtitle: Epidemiologist and postdoc @ HSPH
+subtitle: Epidemiologist and Instructor @ HSPH
 text_align_left: false
 title: Joy Shi
 type: home
