@@ -4,8 +4,7 @@ categories:
 date: "2023-06-27T12:00:00-06:00"
 date_end: "2023-06-27T13:00:00-06:00"
 draft: false
-event: NCI Cancer Intervention and Surveillance 
-Modeling Network consortium
+event: NCI Cancer Intervention and Surveillance Modeling Network consortium
 event_url: https://cisnet.cancer.gov/
 excerpt: This talk was presented to the NCI Cancer Intervention and Surveillance 
 Modeling Network consortium.
