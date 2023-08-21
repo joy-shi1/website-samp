@@ -12,12 +12,14 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Research Interests</span>
   
-  My current research focuses on the development of novel causal inference 
-  methods—primarily for instrumental variable analysis—and their applications to 
-  chronic diseases. Specifically, I am interested in the development of methods 
-  (e.g., g-estimation of structural models) for instrumental
-  variable analyses of time-varying treatments and outcomes, particularly in its
-  applications in randomized trials and in Mendelian randomization studies.
+  My current research focuses on improving and applying cutting-edge causal 
+  inference methods to address clinically relevant questions about the treatment
+  and prevention of chronic diseases. Specifically, I am interested in the 
+  applying and improving causal inference methods for target trial emulation. 
+  Much of my work is focused on the development of instrumental variable methods
+  for time-varying treatments and outcomes (via g-estimation of structural 
+  models). and the application of these methods
+  in randomized trials and Mendelian randomization studies.
   
   Previous research (during my MSc in Epidemiology at [Queen's University](https://phs.queensu.ca/graduate-programs/msc-epidemiology) and as a Data Analyst 
   at the [Center for Global Child Health](https://www.sickkids.ca/en/care-services/centres/global-child-health/) 
@@ -30,10 +32,8 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Teaching</span>
   
-  I am an Assistant Director for the comparative effectiveness pathway in the
-  [Master of Medical Sciences in Clinical Investigation (MMSCI)](https://postgraduateeducation.hms.harvard.edu/masters-programs/master-medical-sciences-clinical-investigation) 
-  program at Harvard Medical School. I also teach methods for causal inference at
-  Harvard T.H. Chan School of Public Health. 
+  I teach methods for causal inference at the Harvard T.H. Chan School of Public
+  Health (as part of the Department of Epidemiology and [CAUSALab](https://causalab.sph.harvard.edu/courses/)), and Harvard Medical School (as part of their [Master of Medical Sciences in Clinical Investigation (MMSCI)](https://postgraduateeducation.hms.harvard.edu/masters-programs/master-medical-sciences-clinical-investigation) program). 
   
   You can find some of my teaching- and course-related materials [here](/teaching/).<br><br>
   

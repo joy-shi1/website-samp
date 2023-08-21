@@ -9,6 +9,8 @@ link_list_label: "Interested in" # bookmarks, elsewhere, etc.
 link_list:
 - name: ▸ Causal inference
   url: 
+- name: ▸ Target trial emulation
+  url:  
 - name: ▸ Epidemiologic and biostatistical methods
   url:
 - name: ▸ Chronic disease epidemiology
