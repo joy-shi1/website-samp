@@ -11,7 +11,7 @@ cascade:
     text_link_label: Talks
     text_link_url: /talk/
 description: |
-  You can download slides from my recent talks below.
+  You can download slides from some of my recent talks below.
 layout: list
 show_author_byline: false
 show_button_links: true
