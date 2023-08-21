@@ -1,11 +1,11 @@
 ---
 author: Joy Shi
 categories:
-date: "2023-04-14T10:15:59-06:00"
-date_end: "2023-04-14T11:45:59-06:00"
+date: "2023-04-14T09:00:00-06:00"
+date_end: "2023-04-14T10:00:00-06:00"
 draft: false
 event: Novo Nordisk Genetics Centre of Excellence
-event_url: https://epiresearch.org/annual-meeting/2022-meeting/
+event_url: https://www.novonordisk.com/science-and-technology/research-and-technology-centres/oxford-research-centre.html
 excerpt: This talk was presented to the Novo Nordisk Genetics Centre of Excellence.
 featured: true
 layout: single
