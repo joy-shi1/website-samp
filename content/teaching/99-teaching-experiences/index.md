@@ -11,25 +11,47 @@ subtitle:
 title: "Teaching Experiences"
 ---
 
-<!-- Assistant Director -->
-<span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Assistant Director</span>
-<table style="border:none; margin:0px">
-  <!-- CI 732 -->
-  <tr style="background:none;">
-    <td style="padding-left: 0px; width:70px">2022 - Present</td>
-    <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22Facets%22%3A%5B%5D%2C%22PageNumber%22%3A1%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22TopN%22%3A%22%22%2C%22PageSize%22%3A%22%22%2C%22SearchText%22%3A%22CI732%22%7D"><b>CI 732</b>: Clinical Data Science - Comparative Effectiveness Research II</a><br>
-        Harvard Medical School, Boston, MA<br><br>
-        <i>Advanced topics in epidemiologic designs, confounding
-        adjustment for time-varying treatment strategies and target trial emulation.</i>
-    </td>
-  </tr>
-</table>
-<br>
-<br>
-
+<!---------------->
 <!-- Instructor -->
+<!---------------->
+
 <span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Instructor</span>
 <table style="border:none; margin:0px">
+
+  <!-- ACA -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2023 - Present</td>
+    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/courses/"><b>Advanced Confounding Adjustment</b></a><br>
+        Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
+        <i>Implementation of advanced g-methods for confounding adjustment 
+        (inverse probability weighting and the parametric g-formula) in the 
+        time-fixed and time-varying settings.</i>
+    </td>
+  </tr>
+
+  <!-- TTE -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2023 - Present</td>
+    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/courses/"><b>Target Trial Emulation</b></a><br>
+        Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
+        <i>Principles of target trial emulation and its applications via 
+        appropriate causal analyses of healthcare databases such as 
+        administrative claims and electronic health records.</i>
+    </td>
+  </tr>
+
+  <!-- EPI 289 -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2023 - Present</td>
+    <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22epi289%20(HU_UNITS_MIN%3A%3E%3D2.5)%22%2C%22DeepLink%22%3Afalse%7D"><b>EPI 289</b>: Epidemiologic 
+    Methods III - Models for Causal Inference</a><br>
+        Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
+        <i>Models for causal inference with time-fixed 
+        exposures; key concepts include bias, methods for confounding and 
+        selection bias adjustment, and instrumental variable estimation.</i>
+    </td>
+  </tr>
+  
   <!-- CI 722 -->
   <tr style="background:none">
     <td style="padding-left: 0px; width:70px">2021 - 2022</td>
@@ -50,9 +72,76 @@ title: "Teaching Experiences"
 <br>
 <br>
 
+<!------------------------>
+<!-- Assistant Director -->
+<!------------------------>
+
+<span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Assistant Director</span>
+<table style="border:none; margin:0px">
+
+  <!-- CI 722 -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2023</td>
+    <td style="padding-left: 0px">
+    <a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22CI%20722%20Spring%22%2C%22DeepLink%22%3Afalse%7D"><b>CI
+    722</b>: Clinical Data Science - Comparative Effectiveness Research I</a><br>
+        Harvard Medical School, Boston, MA<br><br>
+        <i>Causal inference for time-fixed exposures; key concepts include bias, 
+        methods for confounding adjustment, instrumental variable estimation, 
+        and target trial emulation.</i>
+    </td>
+  </tr> 
+  
+  <!-- CI 732 -->
+  <tr style="background:none;">
+    <td style="padding-left: 0px; width:70px">2022 - 2023</td>
+    <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22Facets%22%3A%5B%5D%2C%22PageNumber%22%3A1%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22TopN%22%3A%22%22%2C%22PageSize%22%3A%22%22%2C%22SearchText%22%3A%22CI732%22%7D"><b>CI 732</b>: Clinical Data Science - Comparative Effectiveness Research II</a><br>
+        Harvard Medical School, Boston, MA<br><br>
+        <i>Advanced topics in epidemiologic designs, confounding
+        adjustment for time-varying treatment strategies and target trial emulation.</i><br><br>
+        <i>Course-related materials are available for 
+        <a href="/teaching/5-time-varying-treatments/">an introduction to 
+        time-varying treatment strategies</a>, and
+        <a href="/teaching/6-time-varying-ipw/">inverse probability weighting 
+        for time-varying treatment strategies</a>.</i>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+
+<!-------------------->
 <!-- Guest Lecturer -->
+<!-------------------->
+
 <span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Guest Lecturer</span>
 <table style="border:none; margin:0px">
+
+  <!-- Gen Ed 1112 -->
+  <tr style="background:none;">
+    <td style="padding-left: 0px; width:70px">2023</td>
+    <td style="padding-left: 0px"><a href="https://gened.fas.harvard.edu/classes/prediction-past-and-present-future"><b>Gen Ed 1112</b>: Prediction - The Past and Present of the Future</a><br>
+        Harvard College Program in General Education Cambridge, MA<br><br>
+        <i>A coordinated investigation of the history and future of prediction,
+        spanning from Ancient Mesopotamia to modern day computer simulations and 
+        AI. Guest lectured on applications of prediction modelling to health
+        research.<br>
+    </td>
+  </tr>
+  
+  <!-- TTE -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2022</td>
+    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/courses/"><b>Target Trial Emulation</b></a><br>
+        Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
+        <i>Principles of target trial emulation and its applications via 
+        appropriate causal analyses of healthcare databases such as 
+        administrative claims and electronic health records. Guest lectured on
+        instrumental variable estimation within the context of the target
+        trial framework.</i>
+    </td>
+  </tr>  
+
   <!-- CI 732 -->
   <tr style="background:none;">
     <td style="padding-left: 0px; width:70px">2022</td>
@@ -61,17 +150,13 @@ title: "Teaching Experiences"
         <i>Advanced topics in epidemiologic designs, confounding
         adjustment for time-varying treatment strategies and target trial emulation.
         Guest lectures included topics on time-varying treatment strategies and
-        inverse probability weighting.<br><br>
-        Course-related materials are available for 
-        <a href="/teaching/5-time-varying-treatments/">an introduction to 
-        time-varying treatment strategies</a>, and
-        <a href="/teaching/6-time-varying-ipw/">inverse probability weighting 
-        for time-varying treatment strategies</a>.</i>
+        inverse probability weighting.<br>
     </td>
   </tr>
+  
   <!-- EPI 289 -->
   <tr style="background:none">
-    <td style="padding-left: 0px; width:70px">2021 - Present</td>
+    <td style="padding-left: 0px; width:70px">2021 - 2022</td>
     <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22epi289%20(HU_UNITS_MIN%3A%3E%3D2.5)%22%2C%22DeepLink%22%3Afalse%7D"><b>EPI 289</b>: Epidemiologic 
     Methods III - Models for Causal Inference</a><br>
         Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
@@ -80,6 +165,7 @@ title: "Teaching Experiences"
         methods and g-estimation of nested structural models.</i>
     </td>
   </tr>
+  
   <!-- PHS 6333 -->
   <tr style="background:none;">
     <td style="padding-left: 0px; width:70px">2021</td>
