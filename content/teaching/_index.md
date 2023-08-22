@@ -26,9 +26,10 @@ sidebar:
       [**here**](/teaching/99-teaching-experiences/), 
       some of which is highlighted below:
       
-      - **Instructor**, Harvard T.H. Chan School of Public Health<br>
-        *(2023 - Present)*<br>
-        [EPI 289: Epidemiologic Methods III - Models for Causal Inference](https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22epi289%20%28HU_UNITS_MIN%3A%3E%3D2.5%29%22%2C%22DeepLink%22%3Afalse%7D)<br>
+      - [**EPI 289: Epidemiologic Methods III - Models for Causal Inference**](https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22IS_SCL_SUBJ_CAT%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22TopN%22%3A%22%22%2C%22SearchText%22%3A%22epi289%20%28HU_UNITS_MIN%3A%3E%3D2.5%29%22%2C%22DeepLink%22%3Afalse%7D)<br>
+        Harvard T.H. Chan SChool of Public Health<br>
+        Instructor (2023 - Present)
+        Guest lecturer (2021-2022)
         *Causal inference for time-fixed exposures; key concepts include bias, 
         methods for confounding and selection bias adjustment, and instrumental 
         variable estimation.*<br><br>
