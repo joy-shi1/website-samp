@@ -21,7 +21,7 @@ title: "Teaching Experiences"
   <!-- ACA -->
   <tr style="background:none">
     <td style="padding-left: 0px; width:70px">2023 - Present</td>
-    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/courses/"><b>Advanced Confounding Adjustment</b></a><br>
+    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/2023courses/"><b>Advanced Confounding Adjustment</b></a><br>
         Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
         <i>Implementation of advanced g-methods for confounding adjustment 
         (inverse probability weighting and the parametric g-formula) in the 
@@ -32,7 +32,7 @@ title: "Teaching Experiences"
   <!-- TTE -->
   <tr style="background:none">
     <td style="padding-left: 0px; width:70px">2023 - Present</td>
-    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/courses/"><b>Target Trial Emulation</b></a><br>
+    <td style="padding-left: 0px"><a href="https://causalab.sph.harvard.edu/2023courses/"><b>Target Trial Emulation</b></a><br>
         Harvard T.H. Chan SChool of Public Health, Boston, MA<br><br>
         <i>Principles of target trial emulation and its applications via 
         appropriate causal analyses of healthcare databases such as 

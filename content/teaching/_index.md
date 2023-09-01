@@ -34,14 +34,14 @@ sidebar:
         methods for confounding and selection bias adjustment, and instrumental 
         variable estimation.*
  
-      - [**Advanced Confounding Adjustment**](https://causalab.sph.harvard.edu/courses/)<br>
+      - [**Advanced Confounding Adjustment**](https://causalab.sph.harvard.edu/2023courses/)<br>
         Harvard T.H. Chan School of Public Health<br>
         ▸ **Instructor**, 2023 - Present<br>
         *Implementation of advanced g-methods for confounding adjustment 
         (inverse probability weighting and the parametric g-formula) in the time-fixed
         and time-varying settings.*<br>
  
-      - [**Target Trial Emulation**](https://causalab.sph.harvard.edu/courses/)<br>
+      - [**Target Trial Emulation**](https://causalab.sph.harvard.edu/2023courses/)<br>
         Harvard T.H. Chan School of Public Health<br>
         ▸ **Instructor**, 2023 - Present<br>
         ▸ **Guest lecturer**, 2022<br>
