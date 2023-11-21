@@ -52,6 +52,15 @@ title: "Teaching Experiences"
     </td>
   </tr>
   
+  <!-- Causal inference using observational data -->
+  <tr style="background:none">
+    <td style="padding-left: 0px; width:70px">2023</td>
+    <td style="padding-left: 0px"><a href="https://www.eventbrite.com.au/e/causal-inference-using-observational-data-tickets-674046680767?aff=oddtdtcreator"><b>Causal Inference Using Observational Data</b></a><br>
+        Centre for Pain IMPACT, Neuroscience Research Australia, Randwick, NSW, Australia<br><br>
+        <i>Concepts and methods for causal inference and target trial emulation from observational data</i>
+    </td>
+  </tr>
+  
   <!-- CI 722 -->
   <tr style="background:none">
     <td style="padding-left: 0px; width:70px">2021 - 2022</td>
