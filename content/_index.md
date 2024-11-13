@@ -3,7 +3,7 @@ action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
 description: I am an Epidemiologist and Assistant Professor at the Mongan 
-  Institute (MGH) and CAUSALab (Harvard T.H. Chan School
+  Institute (Massachusetts General Hospital) and CAUSALab (Harvard T.H. Chan School
   of Public Health). I am interested in target trial emulation, causal inference 
   methods (particularly instrumental variables), and pedagogy. My research 
   focuses on applications of target trial emulation and improving causal
