@@ -2,10 +2,10 @@
 action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
-description: I am an Instructor and epidemiologist at the CAUSALab and 
-  Department of Epidemiology at Harvard T.H. Chan School
-  of Public Health. I am interested in target trial emulation, causal inference 
-  methods (particularly instrumental variables),  and pedagogy. My research 
+description: I am an Epidemiologist and Assistant Professor at the Mongan 
+  Institute (MGH) and CAUSALab (Harvard T.H. Chan School
+  of Public Health). I am interested in target trial emulation, causal inference 
+  methods (particularly instrumental variables), and pedagogy. My research 
   focuses on applications of target trial emulation and improving causal
   inference methods to answer clinically relevant questions
   about the treatment and prevention of chronic diseases.
@@ -14,7 +14,7 @@ images:
 - img/JS_Headshot_Photo_Cropped_Circle.png
 show_action_link: true
 show_social_links: true
-subtitle: Epidemiologist and Instructor @ HSPH
+subtitle: Epidemiologist and Assistant Prof @ MGH and CAUSALab
 text_align_left: false
 title: Joy Shi
 type: home

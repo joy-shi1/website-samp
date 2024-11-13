@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Joy Shi"
   orgLocal = "Boston"
-  description = "Joy Shi: Epidemiologist and postdoc @ HSPH"
+  description = "Joy Shi: Epidemiologist and Assistant Professor @ MGH and CAUSALab"
   #favicon = "/img/favicon.ico"
   favicon = "/img/Icon.png"
   logo = "/img/home.png"

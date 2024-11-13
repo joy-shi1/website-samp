@@ -12,14 +12,23 @@ intro: |
      width="45"
      display="inline"/> <span style="font-family: 'Garamond'; font-size: 2em; font-weight: 200">Research Interests</span>
   
-  My current research focuses on improving and applying cutting-edge causal 
-  inference methods to address clinically relevant questions about the treatment
-  and prevention of chronic diseases. Specifically, I am interested in 
-  applying and improving causal inference methods for target trial emulation. 
-  Much of my work is focused on the development of instrumental variable methods
-  for time-varying treatments and outcomes (via g-estimation of structural 
-  models), and the application of these methods to randomized trials and 
-  Mendelian randomization studies.
+  My current research focuses on applying causal inference methods in 
+  administrative health databases and other observational data to conduct target 
+  trial emulations which inform clinical and policy decision-making. This work 
+  has largely focused on evaluating screening strategies for colorectal cancer 
+  and prostate cancer using data from the Nordic-European Initiative on 
+  Colorectal Cancer (NordICC) trial and electronic health record data from the 
+  Veterans Health Administration, respectively. 
+  
+  Methodologically, my work focuses on addressing some of the limitations of 
+  instrumental variable methods, a statistical technique that can be used to 
+  estimate causal effects, even in the presence of unmeasured confounding. 
+  This includes (1) developing instrumental variable methods for time-varying 
+  treatments and outcomes (via g-estimation of structural models), and the 
+  application of these methods to Mendelian randomization (MR) studies; (2) 
+  evaluating and quantifying the impact of different study designs for Mendelian 
+  randomization; and (3) mitigating common sources of selection bias in 
+  Mendelian randomization studies. 
   
   Previous research (during my MSc in Epidemiology at [Queen's University](https://phs.queensu.ca/graduate-programs/msc-epidemiology) and as a Data Analyst 
   at the [Center for Global Child Health](https://www.sickkids.ca/en/care-services/centres/global-child-health/) 

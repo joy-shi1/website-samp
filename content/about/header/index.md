@@ -7,5 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Instructor in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) 
-and the [CAUSALab](https://causalab.sph.harvard.edu/) at Harvard T.H. Chan School of Public.
+Assistant Professor in the [Mongan Institute](https://www.monganinstitute.org/) at
+Massachusetts General Hospital and [CAUSALab](https://causalab.sph.harvard.edu/) 
+at Harvard T.H. Chan School of Public.

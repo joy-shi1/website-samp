@@ -126,6 +126,18 @@ title: "Teaching Experiences"
 <span style="color:#4b7863; font-family: 'Garamond'; font-size: 1.5em; font-weight: 100">Guest Lecturer</span>
 <table style="border:none; margin:0px">
 
+  <!-- EPID 800 -->
+  <tr style="background:none;">
+    <td style="padding-left: 0px; width:70px">2023</td>
+    <td style="padding-left: 0px"><a href="https://academicbulletins.sc.edu/graduate/course-descriptions/epid/"><b>EPID 800</b>: Advanced Methodological Theory in Epidemiology</a><br>
+        University of South Carolina Arnold School of Public Health,  Columbia, SC<br><br>
+        <i>Advanced epidemiologic methods in the design of epidemiologic studies, 
+        with emphasis on causal inference. Theories and frameworks of causation 
+        and interactions between causes and graphical visualization tools.
+        Guest lectured on measurement bias and introduction to target trials.<br>
+    </td>
+  </tr>
+  
   <!-- Gen Ed 1112 -->
   <tr style="background:none;">
     <td style="padding-left: 0px; width:70px">2023</td>
@@ -153,7 +165,7 @@ title: "Teaching Experiences"
 
   <!-- CI 732 -->
   <tr style="background:none;">
-    <td style="padding-left: 0px; width:70px">2022</td>
+    <td style="padding-left: 0px; width:70px">2022, 2024</td>
     <td style="padding-left: 0px"><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22SaveRecent%22%3Atrue%2C%22Facets%22%3A%5B%5D%2C%22PageNumber%22%3A1%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22TopN%22%3A%22%22%2C%22PageSize%22%3A%22%22%2C%22SearchText%22%3A%22CI732%22%7D"><b>CI 732</b>: Clinical Data Science - Comparative Effectiveness Research II</a><br>
         Harvard Medical School, Boston, MA<br><br>
         <i>Advanced topics in epidemiologic designs, confounding
